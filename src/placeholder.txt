@@ -1,0 +1,4 @@
+This placeholder file was added to ensure CI detects a change in the `src/` directory
+for exercise workflow validation (relates to issue #12 and PR #14).
+
+No runtime effect; safe to remove after verification.
